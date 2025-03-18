@@ -1,0 +1,10 @@
+[
+    {
+        "package": "curl",
+        "url": "https://github.com/jeroen/curl"
+    },
+    {
+        "package": "pdftools",
+        "url": "https://github.com/ropensci/pdftools"
+    }
+]
